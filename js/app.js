@@ -1,11 +1,5 @@
 alterarStatus('3');
 
-let jogosAlugados = 0;
-function contarEExibirJogosAlugados() {
-    console.log(`Total de jogos alugados: ${jogosAlugados}`);
-}
-
-
 function alterarStatus(id) {
     let gameClicado = document.getElementById(`${id}`);
     let imagem = gameClicado.querySelector('.dashboard__item__img');
