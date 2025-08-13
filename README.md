@@ -1,1 +1,1 @@
-Linguagens utilizadas: CSS, HTML, Javascript 
+Linguagens utilizadas: CSS, HTML, JS
